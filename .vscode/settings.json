@@ -1,0 +1,13 @@
+{
+    "php.suggest.basic": false,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "namespaceResolver.sortOnSave": true,
+    "namespaceResolver.sortAlphabetically": true
+}
